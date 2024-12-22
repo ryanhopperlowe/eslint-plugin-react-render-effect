@@ -1,8 +1,8 @@
 {
   "name": "eslint-plugin-react-render-effect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint plugin for react-render-effect",
-  "main": "src/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "node src/no-ref-accessor.test.js"
